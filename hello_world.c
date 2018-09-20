@@ -16,6 +16,7 @@
 #include <stdio.h>
 
 int main(int argc, char const *argv[]) {
-  printf("Hello World\n");
+  char name[] = "Handstanger Alexander";
+  printf("Hello %s\n", name);
   return 0;
 }
