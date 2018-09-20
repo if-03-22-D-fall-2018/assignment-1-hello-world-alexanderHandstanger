@@ -1,16 +1,13 @@
 /*----------------------------------------------------------
  *				HTBLA-Leonding / Class: <your class>
  * ---------------------------------------------------------
- * Exercise Number: 0
- * Title:			<title of the assignment>
- * Author:			<your name>
+ * Exercise Number: 1
+ * Title:			hello_world
+ * Author:			Alexander Handstanger
  * ----------------------------------------------------------
  * Description:
- * <some brief description, what the program does: example:
- * Calculates a pyramid of numbers, i.e., it multiplies a big
- * integer by the number 2, its result by 3, etc. and then
- * returns to the original value by subsequently dividing,
- * again starting by 2, 3, etc.>
+ * First Steps with the new programm C.
+ * Hello World
  * ----------------------------------------------------------
  */
 #include <stdio.h>
